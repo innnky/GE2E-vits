@@ -292,11 +292,10 @@ def evaluate(hps, generator, eval_loader, writer_eval):
                 f"gen/mel_{batch_idx}": utils.plot_spectrogram_to_numpy(y_hat_mel[0].cpu().numpy())
             })
             audio_dict.update({
-                f"gen/audio{batch_idx}": y_hat[0, :, :y_hat_lengths[0]]
+                f"gen/audio_{batch_idx}": y_hat[0, :, :y_hat_lengths[0]]
             })
-    if global_step == 0:
-        image_dict.update({"gt/mel": utils.plot_spectrogram_to_numpy(mel[0].cpu().numpy())})
-        audio_dict.update({"gt/audio": y[0, :, :y_lengths[0]]})
+            image_dict.update({f"gt/mel_{batch_idx}": utils.plot_spectrogram_to_numpy(mel[0].cpu().numpy())})
+            audio_dict.update({f"gt/audio_{batch_idx}": y[0, :, :y_lengths[0]]})
 
     utils.summarize(
         writer=writer_eval,
