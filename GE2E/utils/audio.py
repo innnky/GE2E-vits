@@ -306,7 +306,7 @@ class AudioProcessor(object):
         assert self.win_length <= self.fft_size, " [!] win_length cannot be larger than fft_size"
         members = vars(self)
         if verbose:
-            print(" > Setting up Audio Processor...")
+            # print(" > Setting up Audio Processor...")
             for key, value in members.items():
                 print(" | > {}:{}".format(key, value))
         # create spectrogram utils
