@@ -8,11 +8,12 @@ _punctuation = ',.!?-'
 _letters = 'AEINOQUabdefghijkmnoprstuvwyzʃʧ↓↑ '
 '''
 
+"""
 # japanese_cleaners2
 _pad        = '_'
 _punctuation = ',.!?-~…'
 _letters = 'AEINOQUabdefghijkmnoprstuvwyzʃʧʦ↓↑ '
-
+"""
 
 '''# korean_cleaners
 _pad        = '_'
@@ -38,11 +39,11 @@ _punctuation = '।'
 _letters = 'ँंःअआइईउऊऋएऐओऔकखगघङचछजझञटठडढणतथदधनपफबभमयरलळवशषसहऽािीुूृॄेैोौ्ॠॢ '
 '''
 
-'''# cjks_cleaners
+# '''# cjks_cleaners
 _pad        = '_'
 _punctuation = ',.!?-~…'
 _letters = 'NQabdefghijklmnopstuvwxyzʃʧʥʦɯɹəɥçɸɾβŋɦː⁼ʰ`^#*=→↓↑ '
-'''
+# '''
 
 '''# thai_cleaners
 _pad        = '_'
