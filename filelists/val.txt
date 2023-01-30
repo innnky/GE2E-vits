@@ -1,0 +1,6 @@
+data/biaobei/wavs/004087.wav|biaobei|d an4 ch en2 x ia2 c uei1 zh e5 b ao4 j ing3 , j in1 t ie3 j vn1 q ve4 d uo2 d uo3 sh an2 sh an3 .
+data/biaobei/wavs/002471.wav|biaobei|d an4 iang2 r an2 ch eng1 iao4 d eng1 m en2 b ai4 f ang3 , j iang1 l i2 m ou3 h e2 f ei1 er2 d e5 sh iii4 q ing5 g ao4 s u5 t a1 q i1 z ii5 .
+data/engfemale/wavs/manofthedesert_09_hill_0290.wav|engfemale|HH IY1 R N AW1 DH EH1 N HH IY1 W UH1 D P R UW1 V HH IH1 Z L AH1 V B AY1 D UW1 IH0 NG W IH0 DH AW1 T
+data/engmale/wavs/shortstories_03_gaskell_0977.wav|engmale|IH1 F Y UW1 AH0 N D M AH1 DH ER0 W UH1 D B AH1 T D AY1 W IH1 DH M IY1
+data/just/wavs/BASIC5000_4406.wav|just|s. u. i. s. o. o. g. a. k. U. h. e. N. ky. o. k. u. j. i. n. i. , sh. i. r. a. b. e. s. e. e. g. a. h. e. N. k. o. o. s. a. r. e. r. u. k. o. t. o. g. a. sh. i. b. a. sh. i. b. a. a. r. u. .
+data/just/wavs/BASIC5000_4450.wav|just|k. o. o. sh. I. ts. u. k. a. N. k. e. e. n. o. k. e. e. ch. o. o. gy. o. o. j. i. g. a. o. k. o. n. a. w. a. r. e. r. u. b. a. a. i. w. a. , s. o. n. o. t. o. sh. i. n. i. k. a. g. i. r. i. , s. o. r. e. g. a. j. i. cl. sh. I. s. a. r. e. r. u. h. i. o. t. o. k. u. b. e. ts. u. n. i. ky. u. u. j. i. ts. U. t. o. sh. I. t. e. s. a. d. a. m. e. r. u. h. o. o. r. i. ts. u. g. a. ts. U. k. u. r. a. r. e. r. u. .
